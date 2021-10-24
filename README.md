@@ -2,7 +2,7 @@
 ![alt text] 
 
 ## Problem Statement
-To create an intelegent system for Bangla Fake News Detection
+To create an intelligent system for Bangla Fake News Detection
 
 ## Proposed Solution
 The proposed solution to this problem is to create hybrid model. Here, both Machine Learning Algorithms and Neural Network used to build this model. The central role of Neual Network is to do feature extraction. To detect a fake news, Machine Learning algorihtms were used.
