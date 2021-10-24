@@ -20,6 +20,7 @@ In this work, we have used `BanFakeNews` dataset for both trainning and testing.
 │   ├── NN_FeatureExtraction.py
 │   ├── model_creation_and_prediction.py
 └── README.md
+└── workflow.png
 ```
 
 ## 🛠 Tools used
