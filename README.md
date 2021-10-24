@@ -1,5 +1,5 @@
 # A Deep Hybrid Learning to Detect Bangla Fake News
-![alt text] 
+![alt text] (https://github.com/quaziadib/A-Deep-Hybrid-Learning-to-Detect-Bangla-Fake-News/blob/main/workflow.png)
 
 ## Problem Statement
 To create an intelligent system for Bangla Fake News Detection
