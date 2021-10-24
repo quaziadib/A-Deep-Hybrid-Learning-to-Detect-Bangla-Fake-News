@@ -15,10 +15,6 @@ from tensorflow.keras.models import load_model
 physical_devices = tf.config.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 
-if tf.test.gpu_device_name():
-    print('Default GPU Device:{}'.format(tf.test.gpu_device_name()))
-else:
-   print("Please install GPU version of TF")
 
 df = pd.read_csv('preprocessed.csv')
 X = df['cleaned']
