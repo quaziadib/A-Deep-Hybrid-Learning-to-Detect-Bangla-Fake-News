@@ -10,7 +10,7 @@ The proposed solution to this problem is to create hybrid model. Here, both Mach
 ## Data Description
 Dataset available in Kaggle: [BanFakeNews](https://www.kaggle.com/cryptexcode/banfakenews)
 
-In this work, we have used `BanFakeNews dataset` for both trainning and testing.
+In this work, we have used `BanFakeNews` dataset for both trainning and testing.
 
 ## Project Tree Structure
 ```
